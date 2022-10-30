@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Visit() {
   return (
-    <div>Visit Componets</div>
+    <div>Visit Componet</div>
   )
 }
